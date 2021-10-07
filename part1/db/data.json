@@ -1,0 +1,17 @@
+[
+  {
+    "id": "55ae054c-ad4b-4aa7-a833-7929ea142ac3",
+    "nom": "tasca1",
+    "completada": false
+  },
+  {
+    "id": "08869c3f-9a67-4dd9-a029-28b42f06eabb",
+    "nom": "tasca2",
+    "completada": false
+  },
+  {
+    "id": "d9429472-43f9-4562-bf35-87b0f5eb6455",
+    "nom": "oloo",
+    "completada": false
+  }
+]
